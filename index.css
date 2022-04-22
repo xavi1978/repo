@@ -1,0 +1,17 @@
+html {
+  scroll-behavior: smooth;
+}
+body{
+	background-color:#848484;
+}
+.anchor {
+  display: block;
+  position: relative;
+  top: -100px;
+  visibility: hidden;
+}
+.main{
+	margin:20px;
+	padding:20px;
+	background-color:white;
+}
